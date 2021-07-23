@@ -4,7 +4,7 @@
 ## Run latest version
 ```
 docker run --name ams -d --net=host \
-	Nemra1/ant-media-server:latest
+	nemra1/ant-media-server:latest
 ```
 Access to webinterface: http://127.0.0.1:5080
 
